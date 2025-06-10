@@ -1,7 +1,4 @@
 ---
-title: Welcome to Quartz
-tags: []
+title: welcome to my blog
+tags:
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
