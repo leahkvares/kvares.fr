@@ -1,4 +1,4 @@
 ---
-title: welcome to my blog
-tags:
+title: home
+draft: false
 ---

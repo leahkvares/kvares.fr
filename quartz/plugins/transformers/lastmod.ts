@@ -68,6 +68,15 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
 
             const fp = file.data.relativePath!
             const fullFp = file.data.filePath!
+
+            if (file.data.frontmatter?.showDate === false) {
+              file.data.dates = {
+                created: new Date(0),
+                modified: new Date(0),
+                published: new Date(0),
+              }
+              return
+            }
             for (const source of opts.priority) {
               if (source === "filesystem") {
                 const st = await fs.promises.stat(fullFp)
