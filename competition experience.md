@@ -1,0 +1,23 @@
+
+
+blue
+cyberpatriot 2020-2022
+IRSeC 2023
+RIT CCDC mini-comp 2023
+eCitadel 2024
+CCDC regionals 2025
+
+red
+UB Lockdown 2024
+IRSeC 2024
+UB HS 2025
+UB Lockdown 2025
+
+black (infra)
+ISTS 2024 
+CORA 2024
+RITSEC CTF
+IRSeC 2024
+ISTS 2025
+IRSeC 2025
+ISTS 2026
